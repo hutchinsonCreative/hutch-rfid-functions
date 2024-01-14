@@ -1,0 +1,14 @@
+{
+  "name": "hutch-rfid-functions",
+  "version": "1.0.0",
+  "description": "Utility functions for RFID platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rfid"
+  ],
+  "author": "Oli Hutchinson",
+  "license": "ISC"
+}
